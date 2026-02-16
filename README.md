@@ -147,7 +147,7 @@ Python 3.13.9
 
 - **full_name**: 3-100 characters
 - **email**: Valid email format
-- **phone**: 10-15 characters
+- **phone**: 10 characters
 - **skills**: At least 1 skill required
 - **experience_years**: Must be >= 0
 
